@@ -1,0 +1,153 @@
+.creative-web-design {
+  width: 1266px;
+  height: 846px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.creative-web-design .group {
+  position: relative;
+  width: 1150px;
+  height: 697px;
+  top: 68px;
+  left: 60px;
+}
+
+.creative-web-design .vector {
+  position: absolute;
+  width: 34px;
+  height: 30px;
+  top: 58px;
+  left: 486px;
+}
+
+.creative-web-design .ellipse {
+  position: absolute;
+  width: 181px;
+  height: 181px;
+  top: 0;
+  left: 561px;
+}
+
+.creative-web-design .rectangle {
+  position: absolute;
+  width: 171px;
+  height: 177px;
+  top: 0;
+  left: 745px;
+}
+
+.creative-web-design .img {
+  position: absolute;
+  width: 177px;
+  height: 177px;
+  top: 0;
+  left: 921px;
+}
+
+.creative-web-design .rectangle-2 {
+  position: absolute;
+  width: 205px;
+  height: 181px;
+  top: 185px;
+  left: 561px;
+}
+
+.creative-web-design .rectangle-3 {
+  position: absolute;
+  width: 174px;
+  height: 308px;
+  top: 371px;
+  left: 561px;
+}
+
+.creative-web-design .rectangle-4 {
+  position: absolute;
+  width: 398px;
+  height: 213px;
+  top: 464px;
+  left: 742px;
+}
+
+.creative-web-design .vector-2 {
+  position: absolute;
+  width: 89px;
+  height: 89px;
+  top: 14px;
+  left: 14px;
+}
+
+.creative-web-design .AYT {
+  position: absolute;
+  width: 57px;
+  height: 22px;
+  top: 57px;
+  left: 120px;
+}
+
+.creative-web-design .explore-your {
+  position: absolute;
+  top: 472px;
+  left: 0;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 500;
+  color: #676060;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.creative-web-design .be-creative-every {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.creative-web-design .overlap-group {
+  position: absolute;
+  width: 206px;
+  height: 65px;
+  top: 632px;
+  left: 0;
+  background-color: #000000;
+}
+
+.creative-web-design .text-wrapper {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.creative-web-design .want-to-know-more {
+  position: absolute;
+  top: 629px;
+  left: 330px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 700;
+  color: #3866fc;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.creative-web-design .rectangle-5 {
+  position: absolute;
+  width: 363px;
+  height: 270px;
+  top: 185px;
+  left: 770px;
+}
